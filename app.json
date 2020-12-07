@@ -1,0 +1,12 @@
+{
+  "name": "drawer-demo",
+  "displayName": "drawer-demo",
+  "expo": {
+    "name": "drawer-demo",
+    "slug": "drawer-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
